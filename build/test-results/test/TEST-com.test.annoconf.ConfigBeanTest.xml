@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.test.annoconf.ConfigBeanTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-28T08:12:22" hostname="DESKTOP-R5ML8Q4" time="0.409">
+  <properties/>
+  <testcase name="test()" classname="com.test.annoconf.ConfigBeanTest" time="0.409"/>
+  <system-out><![CDATA[16:12:22.973 [Test worker] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@63a12c68
+16:12:22.998 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+16:12:23.132 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+16:12:23.135 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+16:12:23.137 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+16:12:23.141 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+16:12:23.153 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'configBean'
+16:12:23.159 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'userAnno'
+User Init Method...
+16:12:23.164 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'user123'
+16:12:23.165 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'u1'
+com.learn.annoconf.ConfigBean -- configBean
+com.learn.annoconf.User -- userAnno
+com.learn.annoconf.User -- user123
+com.learn.annoconf.User -- u1
+com.learn.annoconf.ConfigBean@75d2da2d
+com.learn.annoconf.User@4278284b
+com.learn.annoconf.User@4278284b
+com.learn.annoconf.User@9573584
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
