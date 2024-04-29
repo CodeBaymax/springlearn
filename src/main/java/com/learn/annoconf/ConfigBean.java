@@ -3,6 +3,9 @@ package com.learn.annoconf;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+/**
+ * 基础的@Configuration应用
+ */
 //@Configuration
 public class ConfigBean {
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.test.cglib.CglibTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-29T06:51:29" hostname="DESKTOP-R5ML8Q4" time="0.084">
+  <properties/>
+  <testcase name="test()" classname="com.test.cglib.CglibTest" time="0.084"/>
+  <system-out><![CDATA[class com.learn.cglib.Coder$$EnhancerByCGLIB$$211ee176
+上班
+写代码。。。。。。
+下班
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

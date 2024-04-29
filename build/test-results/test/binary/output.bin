@@ -1,19 +1,4 @@
-Ã16:12:22.973 [Test worker] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@63a12c68
-Ê16:12:22.998 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
-◊16:12:23.132 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
-’16:12:23.135 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
-‚16:12:23.137 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
-ﬂ16:12:23.141 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
-°16:12:23.153 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'configBean'
-ü16:12:23.159 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'userAnno'
-User Init Method...
-û16:12:23.164 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'user123'
-ô16:12:23.165 [Test worker] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'u1'
--com.learn.annoconf.ConfigBean -- configBean
-%com.learn.annoconf.User -- userAnno
-$com.learn.annoconf.User -- user123
-com.learn.annoconf.User -- u1
-(com.learn.annoconf.ConfigBean@75d2da2d
-"com.learn.annoconf.User@4278284b
-"com.learn.annoconf.User@4278284b
-!com.learn.annoconf.User@9573584
+8class com.learn.cglib.Coder$$EnhancerByCGLIB$$211ee176
+‰∏äÁè≠
+ÂÜô‰ª£Á†Å„ÄÇ„ÄÇ„ÄÇ„ÄÇ„ÄÇ„ÄÇ
+‰∏ãÁè≠
