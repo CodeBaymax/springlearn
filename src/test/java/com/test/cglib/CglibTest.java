@@ -14,7 +14,7 @@ public class CglibTest {
         enhancer.setSuperclass(Coder.class);
         enhancer.setCallback(new CglibProxy());
 
-        System.setProperty(DebuggingClassWriter.DEBUG_LOCATION_PROPERTY, "./cglib");
+        System.setProperty(DebuggingClassWriter.DEBUG_LOCATION_PROPERTY, "D:\\cglib");
         Object object = enhancer.create();
         System.out.println(object.getClass());
 
