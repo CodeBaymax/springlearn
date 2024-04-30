@@ -99,6 +99,7 @@
     <logger name="mapper" level="DEBUG"/>
     <!-- 排除jdk.event.security的日志 -->
     <logger name="jdk.event.security" level="OFF"/>
+    <logger name="javax.management" level="OFF"/>
 
     <!-- 从低到高为：All < Trace < Debug < Info < Warn < Error < Fatal < OFF-->
     <root level="ALL">
